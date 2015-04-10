@@ -1,2 +1,2 @@
 # AdaPageRank
-Functions for implementing PageRank with adaptive damping factor.
+Functions for computing PageRank with adaptive damping factor.
